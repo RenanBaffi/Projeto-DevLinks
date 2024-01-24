@@ -16,7 +16,7 @@ Curso exclusivo da Rocketseat para ensino de tecnologia WEB.
 <br>
 
 <p align="center">
-  <img alt="Projeto DevLinks" src=".assets/foto3.jpg" width="100%">
+  <img alt="Projeto DevLinks" src="./assets/foto3.jpg" width="100%">
   </p>
 </p>
 
