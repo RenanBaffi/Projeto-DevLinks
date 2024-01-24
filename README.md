@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O DevLinks é um agregador de links para usar como cartão de visitas virtual.
-Link do projeto: http://127.0.0.1:5500/index.html
+Link do projeto: https://renanbaffi.github.io/Projeto-DevLinks
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
